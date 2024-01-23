@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_clean_archi/config/theme/app_theme.dart';
-import 'package:flutter_clean_archi/core/features/posts/ui/manager/article_manager.dart';
+import 'package:flutter_clean_archi/core/features/posts/ui/manager/posts_manager.dart';
 import 'package:flutter_clean_archi/core/features/posts/ui/pages/post_list_page.dart';
 import 'package:provider/provider.dart';
 

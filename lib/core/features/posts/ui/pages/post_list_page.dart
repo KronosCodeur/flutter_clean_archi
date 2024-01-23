@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_clean_archi/core/error/failure.dart';
 import 'package:flutter_clean_archi/core/features/posts/data/models/post_model.dart';
-import 'package:flutter_clean_archi/core/features/posts/ui/manager/article_manager.dart';
+import 'package:flutter_clean_archi/core/features/posts/ui/manager/posts_manager.dart';
 import 'package:flutter_clean_archi/core/features/posts/ui/widgets/post_list_item.dart';
 import 'package:provider/provider.dart';
 
